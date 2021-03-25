@@ -1,0 +1,305 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\abb376aaab7283acde69b95fb95f18d6\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\b3e39297541df8698cb15077785d062f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\52360a3b11b1692b451d05c046589619\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\674a697bfc0e5749272998153dc0d2a9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\46d13ebab8282a0eed9844de3668a4c9\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\66c1465266a1e3a7822f871741062edb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\bbd566769e7ec11ae242113a7a63930d\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\ef3c0af7958c52e5630a14b701927599\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\08c5a6c26b5a2a0dd9393ab2134161d0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\f609cc156247958fb67e168dd7b307c7\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\6ee1885f2deadc41e5f944b3ada55080\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\f9c07a8be4b6ba223f718a63900b7d2d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\364f959535f9d805ca86eb84b9636701\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\92d5e4866b5844f2b3baa0e86d7372ed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\3de3aaa3968bb9fbc607c3ff3715d2ac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\821c2e381f9f5632e7fc82baf7828ca9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\86c7035a5d57c4aa5f1e46b22deb23f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\8992ba4dcfa65f7733b37da3c0ca01c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\4b28b3e1f580e5a6ed42415e6effaa64\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\db90a7cd0b6f8a90d3c57fe1abf4c3c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\b8b95e503ee80f11ae13cdf2635cdc09\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\1361cad0b857e5bb874f5a123e02b0d4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\9eb1be4520e4d45c473bf33205b326b1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\8933fe07773bbccd4ce6f53b7109d9fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\3fcfeb8e3a73aa74d512f442b78e732e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\e49fdba2cd1a85ea91e07ae99effbea6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\15cda09051e170d1aaaae019faa38ac1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\56dc29e751844d6da4c493d5bc62bddc\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\77133ab8694d4e1c46ad60fad565b2dd\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\c34d036893984330f8e2e3d9ea362030\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\e347b0a8bbe7e020f9d4f0540de85394\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\736d3976b6f98cd3b9410ed04b562196\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\19604b4ed714675b8389507e5847c8eb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\1a76b812f708131bfe589c9dea9bf5c3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\74df3558f9522424b6d9a16b0e212721\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\373423d03d1729697b4111b856413454\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\489299097ed63dc5cca7ea1f40a7b4eb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\85efcd7e82607e197b309b621c161bd0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\901c52cfc06e80b457baa43e2e5e059d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\7fdf5e05121b631436e102d8e47eb47e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\46d13ebab8282a0eed9844de3668a4c9\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\46d13ebab8282a0eed9844de3668a4c9\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:15:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\46d13ebab8282a0eed9844de3668a4c9\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\46d13ebab8282a0eed9844de3668a4c9\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#com.google.android.providers.gsf.permisson.READ_GSERVICES
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:16:5-97
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:16:22-94
+application
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:18:5-51:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\abb376aaab7283acde69b95fb95f18d6\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\abb376aaab7283acde69b95fb95f18d6\AndroidManifest.xml:26:5-30:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\b3e39297541df8698cb15077785d062f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\b3e39297541df8698cb15077785d062f\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\674a697bfc0e5749272998153dc0d2a9\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\674a697bfc0e5749272998153dc0d2a9\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\46d13ebab8282a0eed9844de3668a4c9\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\46d13ebab8282a0eed9844de3668a4c9\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\66c1465266a1e3a7822f871741062edb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\66c1465266a1e3a7822f871741062edb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\bbd566769e7ec11ae242113a7a63930d\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\bbd566769e7ec11ae242113a7a63930d\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\ef3c0af7958c52e5630a14b701927599\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\ef3c0af7958c52e5630a14b701927599\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\08c5a6c26b5a2a0dd9393ab2134161d0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\08c5a6c26b5a2a0dd9393ab2134161d0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\f609cc156247958fb67e168dd7b307c7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\f609cc156247958fb67e168dd7b307c7\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\56dc29e751844d6da4c493d5bc62bddc\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\56dc29e751844d6da4c493d5bc62bddc\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\77133ab8694d4e1c46ad60fad565b2dd\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\77133ab8694d4e1c46ad60fad565b2dd\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\56dc29e751844d6da4c493d5bc62bddc\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:21:9-41
+	android:roundIcon
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.greendetect.Info
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:25:19-39
+activity#com.example.greendetect.Informations
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:26:9-50
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:26:19-47
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:35:9-37:71
+	android:value
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:37:13-68
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:36:13-58
+activity#com.example.greendetect.MapsActivity
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:39:9-41:59
+	android:label
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:40:13-41
+activity#com.example.greendetect.ImageActivity
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:42:9-51
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:42:19-48
+activity#com.example.greendetect.Admin
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:43:9-43
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:43:19-40
+activity#com.example.greendetect.MainActivity
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:44:9-50:20
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:44:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml:48:27-74
+uses-sdk
+INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\abb376aaab7283acde69b95fb95f18d6\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\abb376aaab7283acde69b95fb95f18d6\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\b3e39297541df8698cb15077785d062f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\b3e39297541df8698cb15077785d062f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\52360a3b11b1692b451d05c046589619\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\52360a3b11b1692b451d05c046589619\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\674a697bfc0e5749272998153dc0d2a9\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\674a697bfc0e5749272998153dc0d2a9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\46d13ebab8282a0eed9844de3668a4c9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\46d13ebab8282a0eed9844de3668a4c9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\66c1465266a1e3a7822f871741062edb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\66c1465266a1e3a7822f871741062edb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\bbd566769e7ec11ae242113a7a63930d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\bbd566769e7ec11ae242113a7a63930d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\ef3c0af7958c52e5630a14b701927599\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\ef3c0af7958c52e5630a14b701927599\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\08c5a6c26b5a2a0dd9393ab2134161d0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\08c5a6c26b5a2a0dd9393ab2134161d0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\f609cc156247958fb67e168dd7b307c7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\f609cc156247958fb67e168dd7b307c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\6ee1885f2deadc41e5f944b3ada55080\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\6ee1885f2deadc41e5f944b3ada55080\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\f9c07a8be4b6ba223f718a63900b7d2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\f9c07a8be4b6ba223f718a63900b7d2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\364f959535f9d805ca86eb84b9636701\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\364f959535f9d805ca86eb84b9636701\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\92d5e4866b5844f2b3baa0e86d7372ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\92d5e4866b5844f2b3baa0e86d7372ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\3de3aaa3968bb9fbc607c3ff3715d2ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\3de3aaa3968bb9fbc607c3ff3715d2ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\821c2e381f9f5632e7fc82baf7828ca9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\821c2e381f9f5632e7fc82baf7828ca9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\86c7035a5d57c4aa5f1e46b22deb23f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\86c7035a5d57c4aa5f1e46b22deb23f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\8992ba4dcfa65f7733b37da3c0ca01c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\8992ba4dcfa65f7733b37da3c0ca01c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\4b28b3e1f580e5a6ed42415e6effaa64\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\4b28b3e1f580e5a6ed42415e6effaa64\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\db90a7cd0b6f8a90d3c57fe1abf4c3c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\db90a7cd0b6f8a90d3c57fe1abf4c3c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\b8b95e503ee80f11ae13cdf2635cdc09\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\b8b95e503ee80f11ae13cdf2635cdc09\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\1361cad0b857e5bb874f5a123e02b0d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\1361cad0b857e5bb874f5a123e02b0d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\9eb1be4520e4d45c473bf33205b326b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\9eb1be4520e4d45c473bf33205b326b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\8933fe07773bbccd4ce6f53b7109d9fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\8933fe07773bbccd4ce6f53b7109d9fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\3fcfeb8e3a73aa74d512f442b78e732e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\3fcfeb8e3a73aa74d512f442b78e732e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\e49fdba2cd1a85ea91e07ae99effbea6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\e49fdba2cd1a85ea91e07ae99effbea6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\15cda09051e170d1aaaae019faa38ac1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\15cda09051e170d1aaaae019faa38ac1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\56dc29e751844d6da4c493d5bc62bddc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\56dc29e751844d6da4c493d5bc62bddc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\77133ab8694d4e1c46ad60fad565b2dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\77133ab8694d4e1c46ad60fad565b2dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\c34d036893984330f8e2e3d9ea362030\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\c34d036893984330f8e2e3d9ea362030\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\e347b0a8bbe7e020f9d4f0540de85394\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\e347b0a8bbe7e020f9d4f0540de85394\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\736d3976b6f98cd3b9410ed04b562196\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\736d3976b6f98cd3b9410ed04b562196\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\19604b4ed714675b8389507e5847c8eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\19604b4ed714675b8389507e5847c8eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\1a76b812f708131bfe589c9dea9bf5c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\1a76b812f708131bfe589c9dea9bf5c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\74df3558f9522424b6d9a16b0e212721\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\74df3558f9522424b6d9a16b0e212721\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\373423d03d1729697b4111b856413454\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\373423d03d1729697b4111b856413454\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\489299097ed63dc5cca7ea1f40a7b4eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\489299097ed63dc5cca7ea1f40a7b4eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\85efcd7e82607e197b309b621c161bd0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\85efcd7e82607e197b309b621c161bd0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\901c52cfc06e80b457baa43e2e5e059d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\901c52cfc06e80b457baa43e2e5e059d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\7fdf5e05121b631436e102d8e47eb47e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\7fdf5e05121b631436e102d8e47eb47e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sduva\AndroidStudioProjects\GreenDetect\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\abb376aaab7283acde69b95fb95f18d6\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\abb376aaab7283acde69b95fb95f18d6\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\abb376aaab7283acde69b95fb95f18d6\AndroidManifest.xml:28:13-60
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\46d13ebab8282a0eed9844de3668a4c9\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\46d13ebab8282a0eed9844de3668a4c9\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\46d13ebab8282a0eed9844de3668a4c9\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\46d13ebab8282a0eed9844de3668a4c9\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\46d13ebab8282a0eed9844de3668a4c9\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\46d13ebab8282a0eed9844de3668a4c9\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\bbd566769e7ec11ae242113a7a63930d\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\bbd566769e7ec11ae242113a7a63930d\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\bbd566769e7ec11ae242113a7a63930d\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\bbd566769e7ec11ae242113a7a63930d\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\f609cc156247958fb67e168dd7b307c7\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\f609cc156247958fb67e168dd7b307c7\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\sduva\.gradle\caches\transforms-2\files-2.1\f609cc156247958fb67e168dd7b307c7\AndroidManifest.xml:24:13-58
